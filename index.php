@@ -29,7 +29,7 @@ curl_close($ch);
 </main>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
-    <title>la proxxima pelicula de marvel</title>
+    <title>la proxima pelicula de marvel</title>
     <link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.classless.min.css"
